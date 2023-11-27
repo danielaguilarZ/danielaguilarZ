@@ -37,7 +37,7 @@
 
 <p>
 <a href="https://github.com/danielaguilarZ"><img src="https://img.shields.io/badge/-danielaguilarZ-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/daniel-aguilar-595082289/"><img src="https://img.shields.io/badge/-Daniel_Aguilar-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/daniel-aguilar-fdz/"><img src="https://img.shields.io/badge/-Daniel_Aguilar-blue?logo=linkedin&style=flat-square"></a>
 <a href="mailto:danielaguilarfdz@gmail.com"><img src="https://img.shields.io/badge/-danielaguilarfdz@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 
